@@ -1,0 +1,7 @@
+.na {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    color: green;
+}
+

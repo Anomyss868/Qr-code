@@ -1,0 +1,21 @@
+body {
+    background-color: #181a1b;
+}
+
+
+.input {
+    border-radius: 5px;
+    margin: 20px 0px;
+    color: green;
+    background-color: #3f4244;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
